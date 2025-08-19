@@ -15,7 +15,7 @@ The goal is to build a functional web application that allows users to browse pr
 - **Other Tools**: Git, GitHub, Docker (optional), Vercel/Netlify for deployment  
 
 
-## UI/UX DESIGN PLANNING
+## UI/UX Design Planning
 ## Design Goals:
 
 - Create intuitive booking flow
