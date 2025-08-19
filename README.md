@@ -64,13 +64,16 @@ A well-designed booking system reduces friction in the user journey, increases c
 ## Importance of Identifying Design Properties of a Mockup Design:
 Identifying design properties in a mock-up is crucial because it ensures visual consistency, bridges the gap between design and development, and improves collaboration. It enhances usability, saves time and cost by reducing rework, and supports scalability through reusable design systems. In short, it transforms a mock-up into a clear, practical blueprint for building the final product.
 
-## Project Roles and Responsibilities:
-- Project Manager :	Oversees timeline, coordinates team, manages deliverables
-- Frontend Developers :	Implements UI components, ensures responsive design
-- Backend Developers :	Builds APIs, manages database, implements business logic
-- Designers :	Creates mockups, maintains design system, ensures UX quality
-- QA/Testers :	Writes test cases, performs testing, reports bugs
-- DevOps Engineers :	Manages deployment, CI/CD pipeline, server infrastructure
-- Product Owner :	Defines requirements, prioritizes features, represents stakeholders
-- Scrum Master :	Facilitates agile processes, removes blockers, organizes meetings
+## Project Roles and Responsibilities
+
+| Role               | Responsibilities                                                                 |
+|--------------------|----------------------------------------------------------------------------------|
+| **Project Manager** | Oversees timeline, coordinates team, manages deliverables                       |
+| **Frontend Developers** | Implements UI components, ensures responsive design                         |
+| **Backend Developers**  | Builds APIs, manages database, implements business logic                     |
+| **Designers**       | Creates mockups, maintains design system, ensures UX quality                    |
+| **QA/Testers**      | Writes test cases, performs testing, reports bugs                               |
+| **DevOps Engineers**| Manages deployment, CI/CD pipeline, server infrastructure                       |
+| **Product Owner**   | Defines requirements, prioritizes features, represents stakeholders             |
+| **Scrum Master**    | Facilitates agile processes, removes blockers, organizes meetings               |
 
