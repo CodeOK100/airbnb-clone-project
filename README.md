@@ -55,4 +55,6 @@ The goal is to build a functional web application that allows users to browse pr
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 ## Importance of Identifying Design Properties of a Mockup Design:
+Identifying design properties in a mock-up is crucial because it ensures visual consistency, bridges the gap between design and development, and improves collaboration. It enhances usability, saves time and cost by reducing rework, and supports scalability through reusable design systems. In short, it transforms a mock-up into a clear, practical blueprint for building the final product.
+
 
